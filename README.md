@@ -14,7 +14,7 @@ I'm a second-year student pursuing **Computer Engineering** and **Video Game Des
 - Problem-solving and optimization
 
 ## 🌟 Experience:
-- Experience in **Unity 2D**: [Check out our group's first 2D game here](https://github.com/username/project-link](https://github.com/KoyFC/TrabajoFinal-DS2D)
+- Experience in **Unity 2D**: [Check out our group's first 2D game here](https://github.com/KoyFC/TrabajoFinal-DS2D)
 
 
 Feel free to explore my projects and contact me!
